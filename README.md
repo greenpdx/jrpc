@@ -18,4 +18,4 @@ it is built with rust version 1.22
 
 ## Changes
 #### 0.1
-  First working version.
+  First working version. 
