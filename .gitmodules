@@ -1,0 +1,6 @@
+[submodule "vue"]
+	path = vue
+	url = git@github.com:greenpdx/jrpc_vue.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:greenpdx/jsonrpc_diesel.git
